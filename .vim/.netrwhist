@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/var/www/staging/base'
+let g:netrw_dirhist_2='/var/www/staging'
+let g:netrw_dirhist_3='/var/www/staging/cis/application/controllers'
+let g:netrw_dirhist_4='/var/www/public_html/base/application/views/base/api_data_templates/fourchange/submit_order'
+let g:netrw_dirhist_5='/var/www/public_html/lando/cms/admin/application/views/lando_dash'
